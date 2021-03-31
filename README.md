@@ -12,7 +12,7 @@
 ## General info
 Task manager for companies.
 The main reason for creating this project is learning MVC principles by implementation and practice of new knowledge. 
-![Example screenshot](/project/app/php.png)
+![Example screenshot](/app/php.png)
 
 ## Technologies
 * Php: 7.4
